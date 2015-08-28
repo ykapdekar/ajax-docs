@@ -271,7 +271,7 @@ public class MyCustomFilteringColumnCS : GridBoundColumn
         return myDataTable;
     }
 }
-````
+
 ````VB
 Public Class MyCustomFilteringColumnCS
     Inherits GridBoundColumn
